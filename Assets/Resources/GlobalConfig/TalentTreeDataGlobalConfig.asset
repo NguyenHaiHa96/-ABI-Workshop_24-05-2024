@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd7dcdc084cdc942ab4c9aae6de7b48, type: 3}
+  m_Name: TalentTreeDataGlobalConfig
+  m_EditorClassIdentifier: 
+  fullLinkSheet: 
+  linkSheet: 
+  tabName: 
+  talentNodesData: {fileID: 0}
+  testTalentNodesData: {fileID: 0}
+  talentPositionLinkSheet: 
+  talentPositionTabName: 
+  talentTreePositionsData: []
+  talentDataLinkSheet: 
+  talentDataTabName: 
+  talentTreeDataConfigs: []
+  talentNodesLevelDataConfig: []
+  talentNodeSpriteDataConfig: {fileID: 0}
+  gemResetTalentTreeRequire:
+    v: 0
+    m: 0
