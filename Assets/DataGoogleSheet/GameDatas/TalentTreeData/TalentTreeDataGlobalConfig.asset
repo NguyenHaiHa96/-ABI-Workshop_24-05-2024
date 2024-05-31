@@ -1,0 +1,3683 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd7dcdc084cdc942ab4c9aae6de7b48, type: 3}
+  m_Name: TalentTreeDataGlobalConfig
+  m_EditorClassIdentifier: 
+  fullLinkSheet: https://docs.google.com/spreadsheets/d/1ptmcCJ_J1Wlb7fABn-HtGznfCRrZjaIU9BPhmcsVXuc/edit#gid=0
+  linkSheet: 1ptmcCJ_J1Wlb7fABn-HtGznfCRrZjaIU9BPhmcsVXuc
+  tabName: TalentTreeLevelData
+  talentNodesData: {fileID: 11400000, guid: 6e344b774f22cca49af89b74e1ecdeb1, type: 2}
+  talentPositionLinkSheet: 1ptmcCJ_J1Wlb7fABn-HtGznfCRrZjaIU9BPhmcsVXuc
+  talentPositionTabName: TalentTreePosition
+  talentTreePositionsData:
+  - <Row>k__BackingField: 0
+    <Columns>k__BackingField:
+    - 
+    - 0
+    - 
+  - <Row>k__BackingField: 1
+    <Columns>k__BackingField:
+    - 
+    - 1; 0
+    - 
+  - <Row>k__BackingField: 2
+    <Columns>k__BackingField:
+    - 2; 1
+    - 3; 1
+    - 4; 1
+  - <Row>k__BackingField: 3
+    <Columns>k__BackingField:
+    - 5; 2
+    - 
+    - 6; 4
+  - <Row>k__BackingField: 4
+    <Columns>k__BackingField:
+    - 
+    - 7; 5; 6
+    - 
+  - <Row>k__BackingField: 5
+    <Columns>k__BackingField:
+    - 
+    - 8; 7
+    - 
+  - <Row>k__BackingField: 6
+    <Columns>k__BackingField:
+    - 9; 8
+    - 10; 8
+    - 11; 8
+  - <Row>k__BackingField: 7
+    <Columns>k__BackingField:
+    - 12; 9
+    - 
+    - 13; 11
+  - <Row>k__BackingField: 8
+    <Columns>k__BackingField:
+    - 14; 12
+    - 
+    - 15; 13
+  - <Row>k__BackingField: 9
+    <Columns>k__BackingField:
+    - 16; 14
+    - 
+    - 17; 15
+  - <Row>k__BackingField: 10
+    <Columns>k__BackingField:
+    - 
+    - 18; 16; 17
+    - 
+  - <Row>k__BackingField: 11
+    <Columns>k__BackingField:
+    - 19; 18
+    - 20; 18
+    - 21; 18
+  - <Row>k__BackingField: 12
+    <Columns>k__BackingField:
+    - 22; 19
+    - 23; 20
+    - 24; 21
+  - <Row>k__BackingField: 13
+    <Columns>k__BackingField:
+    - 25; 22
+    - 26; 23
+    - 27; 24
+  - <Row>k__BackingField: 14
+    <Columns>k__BackingField:
+    - 
+    - 28; 25; 26; 27
+    - 
+  - <Row>k__BackingField: 15
+    <Columns>k__BackingField:
+    - 
+    - 29; 28
+    - 
+  - <Row>k__BackingField: 16
+    <Columns>k__BackingField:
+    - 30; 29
+    - 31; 29
+    - 32; 29
+  - <Row>k__BackingField: 17
+    <Columns>k__BackingField:
+    - 33; 30
+    - 
+    - 34; 32
+  - <Row>k__BackingField: 18
+    <Columns>k__BackingField:
+    - 35; 33
+    - 
+    - 36; 34
+  - <Row>k__BackingField: 19
+    <Columns>k__BackingField:
+    - 
+    - 37; 35; 36
+    - 
+  - <Row>k__BackingField: 20
+    <Columns>k__BackingField:
+    - 
+    - 38; 37
+    - 
+  - <Row>k__BackingField: 21
+    <Columns>k__BackingField:
+    - 
+    - 39; 38
+    - 
+  - <Row>k__BackingField: 22
+    <Columns>k__BackingField:
+    - 40; 39
+    - 41; 39
+    - 42; 39
+  - <Row>k__BackingField: 23
+    <Columns>k__BackingField:
+    - 43; 40
+    - 
+    - 44; 42
+  - <Row>k__BackingField: 24
+    <Columns>k__BackingField:
+    - 45; 43
+    - 
+    - 46; 44
+  - <Row>k__BackingField: 25
+    <Columns>k__BackingField:
+    - 47; 45
+    - 
+    - 48; 46
+  - <Row>k__BackingField: 26
+    <Columns>k__BackingField:
+    - 
+    - 49; 47; 48
+    - 
+  - <Row>k__BackingField: 27
+    <Columns>k__BackingField:
+    - 50; 49
+    - 
+    - 51; 49
+  - <Row>k__BackingField: 28
+    <Columns>k__BackingField:
+    - 52; 50
+    - 
+    - 53; 51
+  - <Row>k__BackingField: 29
+    <Columns>k__BackingField:
+    - 
+    - 54; 52; 53
+    - 
+  - <Row>k__BackingField: 30
+    <Columns>k__BackingField:
+    - 55; 54
+    - 56; 54
+    - 57; 54
+  - <Row>k__BackingField: 31
+    <Columns>k__BackingField:
+    - 58; 55
+    - 59; 56
+    - 60; 57
+  - <Row>k__BackingField: 32
+    <Columns>k__BackingField:
+    - 
+    - 61; 58; 59; 60
+    - 
+  - <Row>k__BackingField: 33
+    <Columns>k__BackingField:
+    - 62; 61
+    - 63; 61
+    - 64; 61
+  - <Row>k__BackingField: 34
+    <Columns>k__BackingField:
+    - 65; 62
+    - 66; 63
+    - 67; 64
+  - <Row>k__BackingField: 35
+    <Columns>k__BackingField:
+    - 68; 65
+    - 69; 66
+    - 70; 67
+  - <Row>k__BackingField: 36
+    <Columns>k__BackingField:
+    - 
+    - 71; 68; 69; 70
+    - 
+  - <Row>k__BackingField: 37
+    <Columns>k__BackingField:
+    - 
+    - 72; 71
+    - 
+  - <Row>k__BackingField: 38
+    <Columns>k__BackingField:
+    - 73; 72
+    - 
+    - 74; 72
+  - <Row>k__BackingField: 39
+    <Columns>k__BackingField:
+    - 
+    - 75; 73; 74
+    - 
+  - <Row>k__BackingField: 40
+    <Columns>k__BackingField:
+    - 76; 75
+    - 
+    - 77; 75
+  - <Row>k__BackingField: 41
+    <Columns>k__BackingField:
+    - 
+    - 78; 76; 77
+    - 
+  - <Row>k__BackingField: 42
+    <Columns>k__BackingField:
+    - 79; 78
+    - 80; 78
+    - 81; 78
+  - <Row>k__BackingField: 43
+    <Columns>k__BackingField:
+    - 82; 79
+    - 83; 80
+    - 84; 81
+  - <Row>k__BackingField: 44
+    <Columns>k__BackingField:
+    - 
+    - 85; 82; 83; 84
+    - 
+  - <Row>k__BackingField: 45
+    <Columns>k__BackingField:
+    - 86; 85
+    - 
+    - 87; 85
+  - <Row>k__BackingField: 46
+    <Columns>k__BackingField:
+    - 88; 86
+    - 
+    - 89; 87
+  - <Row>k__BackingField: 47
+    <Columns>k__BackingField:
+    - 
+    - 90; 88; 89
+    - 
+  - <Row>k__BackingField: 48
+    <Columns>k__BackingField:
+    - 91; 90
+    - 
+    - 92; 90
+  - <Row>k__BackingField: 49
+    <Columns>k__BackingField:
+    - 93; 91
+    - 
+    - 94; 92
+  talentDataLinkSheet: 
+  talentDataTabName: 
+  talentTreeDataConfigs: []
+  talentNodesLevelDataConfig:
+  - iD: 0
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 1
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 2
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 3
+    talentType: 2
+    buffType: 0
+    specialTalent: 1
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: Evolving will no longer reset you back to the first battle.
+  - iD: 4
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 5
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 6
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 7
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 8
+    talentType: 1
+    buffType: 12
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 2
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 3
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 4
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 5
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 6
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 7
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 8
+      v: 6.5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+  - iD: 9
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 10
+    talentType: 2
+    buffType: 0
+    specialTalent: 3
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: Zombie Rush Dungeons that you have passed can now be auto-completed
+  - iD: 11
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+  - iD: 12
+    talentType: 1
+    buffType: 6
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 2
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 3
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 4
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 5
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 6
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 7
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 8
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+  - iD: 13
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 14
+    talentType: 1
+    buffType: 10
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 2
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 3
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 4
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 5
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 6
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 7
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 8
+      v: 7
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+  - iD: 15
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 16
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 17
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 18
+    talentType: 1
+    buffType: 8
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 2
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 3
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 4
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 5
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 6
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 7
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 8
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+  - iD: 19
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 20
+    talentType: 1
+    buffType: 6
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 2
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 3
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 4
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 5
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 6
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 7
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 8
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+  - iD: 21
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 22
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 23
+    talentType: 1
+    buffType: 10
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 2
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 3
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 4
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 5
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 6
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 7
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 8
+      v: 7
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+  - iD: 24
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+  - iD: 25
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 26
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 27
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 28
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 29
+    talentType: 1
+    buffType: 8
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 2
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 3
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 4
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 5
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 6
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 7
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 8
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+  - iD: 30
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 31
+    talentType: 2
+    buffType: 0
+    specialTalent: 4
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: Boss Dungeons that you have passed can now be auto-completed.
+  - iD: 32
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 33
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 34
+    talentType: 1
+    buffType: 6
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 2
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 3
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 4
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 5
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 6
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 7
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+    - l: 8
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Critical Chance'
+  - iD: 35
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 36
+    talentType: 1
+    buffType: 10
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 2
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 3
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 4
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 5
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 6
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 7
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 8
+      v: 7
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+  - iD: 37
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 38
+    talentType: 1
+    buffType: 12
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 2
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 3
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 4
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 5
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 6
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 7
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+    - l: 8
+      v: 6.5
+      rF: 1
+      strDescription: ' +{0}% Ad Boost Multiplier'
+  - iD: 39
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 40
+    talentType: 1
+    buffType: 11
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+  - iD: 41
+    talentType: 2
+    buffType: 0
+    specialTalent: 5
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: Winning a battle with no upgrades (and against the same age
+        ) allows you to skip that timeline.
+  - iD: 42
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 43
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 44
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 45
+    talentType: 1
+    buffType: 8
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 2
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 3
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 4
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 5
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 6
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 7
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+    - l: 8
+      v: 0.5
+      rF: 1
+      strDescription: ' +{0}% Block Chance'
+  - iD: 46
+    talentType: 1
+    buffType: 11
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+  - iD: 47
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+  - iD: 48
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 49
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 50
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 51
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 52
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 53
+    talentType: 1
+    buffType: 11
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop food'
+  - iD: 54
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 55
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 56
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 57
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+  - iD: 58
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 59
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 60
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 61
+    talentType: 1
+    buffType: 10
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 2
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 3
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 4
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 5
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 6
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 7
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 8
+      v: 7
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+  - iD: 62
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 63
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 64
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 65
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 66
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+  - iD: 67
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 68
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 69
+    talentType: 1
+    buffType: 10
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 2
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 3
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 4
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 5
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 6
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 7
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 8
+      v: 7
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+  - iD: 70
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 71
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 72
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 73
+    talentType: 1
+    buffType: 9
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 7
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+    - l: 8
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Chance to drop double the coins'
+  - iD: 74
+    talentType: 1
+    buffType: 10
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 2
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 3
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 4
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 5
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 6
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 7
+      v: 4
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+    - l: 8
+      v: 7
+      rF: 1
+      strDescription: ' +{0}% Critical Damage'
+  - iD: 75
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 76
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 77
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 78
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 79
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 80
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 81
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 82
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 83
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 84
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 85
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 86
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 87
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 88
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 89
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  - iD: 90
+    talentType: 1
+    buffType: 7
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+    - l: 8
+      v: 8
+      rF: 1
+      strDescription: ' +{0}% Tower Health'
+  - iD: 91
+    talentType: 1
+    buffType: 3
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 5
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+    - l: 8
+      v: 9
+      rF: 1
+      strDescription: ' +{0}% Coin Gained'
+  - iD: 92
+    talentType: 1
+    buffType: 4
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 2
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 3
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 4
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 5
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 6
+      v: 1
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 7
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+    - l: 8
+      v: 2
+      rF: 1
+      strDescription: ' +{0}% Food Production'
+  - iD: 93
+    talentType: 1
+    buffType: 1
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Damage'
+  - iD: 94
+    talentType: 1
+    buffType: 2
+    specialTalent: 0
+    talentNodesLevelData:
+    - l: 1
+      v: 10
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 2
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 3
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 4
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 5
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 6
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 7
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+    - l: 8
+      v: 6
+      rF: 1
+      strDescription: ' +{0}% All Unit Health'
+  talentNodeSpriteDataConfig: {fileID: 0}
+  gemResetTalentTreeRequire:
+    v: 0
+    m: 0

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9a6da709ce2284da5e382bade46303, type: 3}
+  m_Name: ButtonConfig
+  m_EditorClassIdentifier: 
+  <Presets>k__BackingField:
+  - Name: None
+    Size: {x: 0, y: 0}
+    ClickSound: {fileID: 0}
+  - Name: Button 1
+    Size: {x: 220, y: 120}
+    ClickSound: {fileID: 0}
+  - Name: Button 2
+    Size: {x: 220, y: 90}
+    ClickSound: {fileID: 0}
+  - Name: Button 3
+    Size: {x: 255, y: 150}
+    ClickSound: {fileID: 0}
+  <SpriteButtonPresets>k__BackingField:
+  - Name: 0
+    Sprite: {fileID: 21300000, guid: af3edac64e8ed5b42ba16e44d5877cd4, type: 3}
+  - Name: 1
+    Sprite: {fileID: 21300000, guid: cf0de0521918557418da53b83206ebb5, type: 3}
+  - Name: 2
+    Sprite: {fileID: 21300000, guid: 5a1d9d27dcf007b4da0f9d27dd3dd4d3, type: 3}
+  - Name: 3
+    Sprite: {fileID: 21300000, guid: 3f09d57a69199eb4388d0b587911d2ae, type: 3}
+  - Name: 4
+    Sprite: {fileID: 21300000, guid: 09ddc7993b588fe4484621f2115bba0b, type: 3}
+  - Name: 5
+    Sprite: {fileID: 21300000, guid: 8c20065f1535e1440b7226879a078471, type: 3}
+  - Name: 6
+    Sprite: {fileID: 21300000, guid: 4e87988002511ce43b370f0c93771f93, type: 3}
+  - Name: 7
+    Sprite: {fileID: 21300000, guid: fe86bfbf18c85b74297abe6b6ae4e947, type: 3}
+  - Name: 8
+    Sprite: {fileID: 21300000, guid: 783a2b2fdb0aed74a912438636b663cc, type: 3}
+  - Name: 9
+    Sprite: {fileID: 21300000, guid: b3a732d635de13c4a86084f5e88eade0, type: 3}
+  - Name: 10
+    Sprite: {fileID: 21300000, guid: bf284cefd8ea55e46a611a50babd1501, type: 3}
+  - Name: 11
+    Sprite: {fileID: 21300000, guid: e10256737b2058e45ad8aeff315ecef4, type: 3}
+  UICanvas: []

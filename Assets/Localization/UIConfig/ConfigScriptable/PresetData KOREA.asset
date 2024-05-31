@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f3a3a8642a380f4ba006f73e46c170a, type: 3}
+  m_Name: PresetData KOREA
+  m_EditorClassIdentifier: 
+  <Presets>k__BackingField:
+  - Name: Title 1
+    PresetType: 0
+    OffsetText: {x: 0, y: 0}
+    FontSize: 60
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 16
+  - Name: Title 2
+    PresetType: 1
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 48
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Title 3
+    PresetType: 2
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 45
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Content 1
+    PresetType: 3
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 20
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Content 2
+    PresetType: 4
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 20
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Button 0
+    PresetType: 5
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 65
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Button 1
+    PresetType: 6
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 42
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Button 2
+    PresetType: 7
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 32
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Quote 1
+    PresetType: 8
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 36
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Quote 2
+    PresetType: 9
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 30
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Quote 3
+    PresetType: 10
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 28
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Quote 4
+    PresetType: 11
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 24
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
+  - Name: Normal
+    PresetType: 12
+    OffsetText: {x: 0, y: -13.5}
+    FontSize: 20
+    FontAsset: {fileID: 11400000, guid: f3fd1ae369f2ad74585000ad87f15fdb, type: 2}
+    PresetStyle: 0
